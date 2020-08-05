@@ -29,6 +29,8 @@
 
 <h1 align="center">
   <img alt="Login" title="#Login" src="./frontend/src/assets/screenshots/principal.png" />
+  <br>
+  <img alt="Login" title="#Login" src="./frontend/src/assets/screenshots/usuários.png" />
 </h1>
 
 
