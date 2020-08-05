@@ -10,7 +10,7 @@
 
 <div id="objetivo">
  <h2>Objetivo</h2>
-<h5>Automatizar Demonstração de um cadastro de usuários(Inclusão, alteração, consulta e  exclusão)<h5>
+<h5>Demonstração de um cadastro de usuários(Inclusão, alteração, consulta e  exclusão)<h5>
  </div>
  
  <h2>Status</h2>
